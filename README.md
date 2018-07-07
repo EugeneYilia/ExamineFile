@@ -12,5 +12,5 @@ An application which can examine file as the specified encryption.
     argument order is filePath targetEncodedString encodeType   
     e.g. If you add arguments as   
     C:\Users\liuyi\Downloads\HaskellPlatform-8.4.3-full-x86_64-setup.exe 7a994fa88c8807956f7e78ec6dff227f333e1158ca251c1df7bcce55817ee4ae SHA-256  
-    If program test successfully,it will ouput true.
+    If program test successfully,it will output true.
          

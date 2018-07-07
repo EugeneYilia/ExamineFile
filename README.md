@@ -1,5 +1,5 @@
 # ExamineFile
-An application which can examine file as the rule specified encryption.
+An application which can examine file as the specified encryption.
 
 ## How to use this 
 * 1.If you execute program in cli  
